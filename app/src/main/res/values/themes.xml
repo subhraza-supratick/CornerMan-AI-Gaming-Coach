@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.Cornerman" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#0A0A0F</item>
+        <item name="android:windowBackground">#0A0A0F</item>
+    </style>
+</resources>
